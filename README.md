@@ -2,6 +2,8 @@
 A list of tests from the disciplines taught at the Federal University of Maranhão.
 Those tests are inside a folder containg the discipline name. Each discipline folder contains sub directories named as the year that their test was aplied.
 
+*Read this in other languages: [Portuguese](README.pt-br.md).*
+
 ## List
 - [Data Structure II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Data%20Structure%20II) 
   - [2015](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Data%20Structure%20II/2015/test%201)
