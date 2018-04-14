@@ -1,4 +1,4 @@
-# Awesome UFMA
+# Awesome UFMA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Uma lista de provas das disciplinas ministradas na Universidade Federal do Maranhão.
 Estas provas estão dentro de uma pasta nomeada com o nome da disciplina. Cada pasta possui sub diretórios nomeados com o ano em que as provas foram aplicadas.
 
