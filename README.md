@@ -20,6 +20,8 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [2015](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2015/test%201)
 	- [2016](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2016/test%201)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2017/test%201)
+- [Linguagem de Programação](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagem%20de%20Programa%C3%A7%C3%A3o)
+	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagem%20de%20Programa%C3%A7%C3%A3o/2017/)
 - [Linguagens Formais e Autômatos](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos)
 	- [20??](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos)
 - [Matemática Discreta e Lógica](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica)

@@ -17,6 +17,8 @@ Those tests are inside a folder containg the discipline name. Each discipline fo
 	- [2015](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2015/test%201)
 	- [2016](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2016/test%201)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2017/test%201)
+- [Programming Language C](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagem%20de%20Programa%C3%A7%C3%A3o)
+	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagem%20de%20Programa%C3%A7%C3%A3o/2017/)
 - [Formal Languages and Automata Theory](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos)
 	- [20??](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos)
 - [Discrete Mathematics and Logic](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica)
