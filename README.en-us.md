@@ -5,10 +5,22 @@ Those tests are inside a folder containg the discipline name. Each discipline fo
 *Read this in other languages: [Portuguese](README.pt-br.md).*
 
 ## List
-- [Data Structure II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Data%20Structure%20II) 
-  - [2015](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Data%20Structure%20II/2015/test%201)
-  - [2016](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Data%20Structure%20II/2016/test%201)
-  - [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Data%20Structure%20II/2017/test%201)
+- [Calculus II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/)
+	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/2017/)
+- [Calculus III](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/)
+	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/2017/)
+- [Vector Calculus and Analytical Geometry](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial)
+	- [2016](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial/2016/)
+- [Data Structure I](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I)
+	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/2017/)
+- [Data Structure II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II)
+	- [2015](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2015/test%201)
+	- [2016](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2016/test%201)
+	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2017/test%201)
+- [Formal Languages and Automata Theory](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos)
+	- [20??](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos)
+- [Discrete Mathematics and Logic](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica)
+	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica/2017/)
 
 
 ### Note for professors 
