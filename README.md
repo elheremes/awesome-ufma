@@ -29,5 +29,5 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 
 
 
-### Note aos professores
+### Nota aos professores
 Se você é um professor preocupado com estudantes se preparando para sua prova, como eles deveriam estar, sinta-se livre para enviar um issue pedindo a remoção das suas provas deste repositório. A pasta contendo sua disciplina será removida o mais rápido possível.
