@@ -34,3 +34,7 @@ prova[Numero]_[ano].[semestre].[extensão]
 	* prova1_20??.2.jpeg
 	* reposicao_2015.1.pdf
 	* final_2017.1.png
+* Caso uma prova sem informações venha a possuir mesmo nome que outra, adicione apenas **(n)** ao final do nome, sendo **n** o número de vezes que o nome foi repetido.
+```
+prova1_20??(1).pdf
+```
