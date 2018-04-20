@@ -5,7 +5,6 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 
 *Leia isto em outras línguas: [English](README.en-us.md).*
 
-
 ## Lista
 - [Cálculo II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/2017/)
@@ -27,7 +26,11 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 - [Matemática Discreta e Lógica](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica/2017/)
 
+### Como Contribuir?
+Veja o [guia](https://github.com/Marcos-Costa/awesome-ufma/blob/master/CONTRIBUTING.md) de como contribuir com o repósitório, é bem simples, não custa nada e você ganha três coisas com isso:
+* Isso conta como **contribuição em projetos no github**, o que é um diferencial em curriculos de programadores hoje em dia.
+* Você ajuda **todos alunos do curso a se formarem mais rápido**.
+* Ajuda a acabar com um dos maiores problemas de nossa querida universidade, a temida e dispendiosa  **retenção de alunos**.
 
-
-### Nota aos professores
+#### Nota aos professores
 Se você é um professor preocupado com estudantes se preparando para sua prova, como eles deveriam estar, sinta-se livre para enviar um issue pedindo a remoção das suas provas deste repositório. A pasta contendo sua disciplina será removida o mais rápido possível.
