@@ -12,6 +12,8 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/2017/)
 - [Cálculo Vetorial](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial)
 	- [2016](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial/2016/)
+- [Cálculo Numérico](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/)
+    - [2018](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/2018/)
 - [Estrutura de Dados I](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I)
 	- [2007](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/2007)
 	- [2008](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/2008)

@@ -11,6 +11,8 @@ Those tests are inside a folder containg the discipline name. Each discipline fo
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/2017/)
 - [Vector Calculus and Analytical Geometry](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial)
 	- [2016](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial/2016/)
+- [Numerical Calculus](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/)
+    - [2018](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/2018/)
 - [Data Structure I](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/2017/)
 - [Data Structure II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II)
