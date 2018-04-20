@@ -13,8 +13,11 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 - [Cálculo Vetorial](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial)
 	- [2016](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial/2016/)
 - [Estrutura de Dados I](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I)
+	- [2007](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/2007)
+	- [2008](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/2008)
+	- [2011](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/2011)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/2017/)
-
+	- [20??](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/20%3F%3F)
 - [Estrutura de Dados II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II)
 	- [2015](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2015/test%201)
 	- [2016](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/2016/test%201)
