@@ -30,6 +30,8 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [20??](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos)
 - [Matemática Discreta e Lógica](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica/2017/)
+- [Pesquisa Operacional](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Pesquisa%20Operacional)
+	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Pesquisa%20Operacional/2017)
 - [Teoria da Computação](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao/2017)
 
