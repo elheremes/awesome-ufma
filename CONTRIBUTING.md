@@ -17,15 +17,15 @@ Materia Nova II
 * Insira o arquivo dentro da pasta criada seguindo o modelo <nome>_<semestre>.pdf
    - Ex: 2017_1.pdf
 
-* Se tiver mais de um arquivo:
-   - 2017_1-1.pdf
-   - 2017_1-2.pdf
+* Caso a prova consista de mais de 1 arquivo:
+   - 2017_1-1.jpg
+   - 2017_1-2.jpg
 
 * Caso o ano ou o semestre seja desconhecido:
    - 20??_1.pdf
    - 2017_?.pdf
    - 20??_?.pdf
 
-* Caso haja mais de um arquivo com o mesmo nome, adicione o numero entre paranteses:
+* Caso haja mais de um prova com o mesmo nome, adicione o numero entre paranteses:
    - 20??_1(1).pdf
    - 20??_1(2).pdf
