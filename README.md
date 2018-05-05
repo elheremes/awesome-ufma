@@ -8,12 +8,16 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 ## Lista
 - [Cálculo II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/2017/)
+		- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/2017/prova%202)
 - [Cálculo III](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/2017/)
+		- [Reposição](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/2017/reposicao)	
 - [Cálculo Vetorial](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial)
 	- [2016](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial/2016/)
+		- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial/2016/prova%202)
 - [Cálculo Numérico](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/)
-    - [2018](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/2018/)
+	- [2018](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/2018/)
+		- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/2018/prova%201)
 - [Estrutura de Dados I](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I)
 	- [2007](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/2007)
 	- [2008](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/2008)
@@ -30,6 +34,10 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [20??](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos)
 - [Matemática Discreta e Lógica](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica)
 	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica/2017/)
+- [Pesquisa Operacional](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Pesquisa%20Operacional)
+	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Pesquisa%20Operacional/2017)
+- [Teoria da Computação](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao)
+	- [2017](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao/2017)
 
 ### Como Contribuir?
 Veja o [guia](https://github.com/Marcos-Costa/awesome-ufma/blob/master/CONTRIBUTING.md) de como contribuir com o repósitório, é bem simples, não custa nada e você ganha três coisas com isso:
