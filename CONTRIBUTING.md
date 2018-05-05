@@ -3,38 +3,29 @@
 * Verifique se a prova que você deseja submeter já foi enviada previamente.
 * Verifique se já existe uma pasta para a disciplina que irá enviar a prova. Caso contrário, crie uma nova.
 * O nome da pasta deve ser o **Nome da Disciplina** sem acentos, contendo espaços e os números devem ser escritos em algarismos romanos.
+
 ```
 Materia Nova II
 ```
 
-* Dentro da pasta crie sub pastas com nome do ano em que as provas foram aplicadas.
-```
-2017
-```
-*Caso o ano seja desconhecido, a prova deve ser colocada em uma pasta nomeada:*
-```
-20??
-```
+* Dentro da pastas crie uma pasta com o tipo de prova:
+   - prova 1
+   - prova 2
+   - reposicao
+   - final
 
-* Dentro do diretório de ano, coloque a prova em uma das pastas à seguir:
-	* Prova 1
-	* Prova 2
-	* Prova 3
-	* Reposicao
-	* Final
-* O nome do arquivo deve seguir um dos padrões:
-```
-prova[Numero]_[ano].[semestre].[extensão]
-```
-```
-[tipo]_[ano].[semestre].[extensão]
-```
-* **Exemplos de nomes válidos**
-	* prova2_2017.1.pdf
-	* prova1_20??.2.jpeg
-	* reposicao_2015.1.pdf
-	* final_2017.1.png
-* Caso uma prova sem informações venha a possuir mesmo nome que outra, adicione apenas **(n)** ao final do nome, sendo **n** o número de vezes que o nome foi repetido.
-```
-prova1_20??(1).pdf
-```
+* Insira o arquivo dentro da pasta criada seguindo o modelo <nome>_<semestre>.pdf
+   - Ex: 2017_1.pdf
+
+* Se tiver mais de um arquivo:
+   - 2017_1-1.pdf
+   - 2017_1-2.pdf
+
+* Caso o ano ou o semestre seja desconhecido:
+   - 20??_1.pdf
+   - 2017_?.pdf
+   - 20??_?.pdf
+
+* Caso haja mais de um arquivo com o mesmo nome, adicione o numero entre paranteses:
+   - 20??_1(1).pdf
+   - 20??_1(2).pdf
