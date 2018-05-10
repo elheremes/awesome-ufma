@@ -6,6 +6,8 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 *Leia isto em outras línguas: [English](README.en-us.md).*
 
 ## Lista
+- [Algebra Linear](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Algebra%20Linear)
+	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Algebra%20Linear/prova%201)
 - [Cálculo II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/)
 	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/prova%202)
 - [Cálculo III](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/)
