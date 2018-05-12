@@ -39,6 +39,8 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 - [Redes de Computadores](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Redes%20de%20Computadores%20I)
 	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Redes%20de%20Computadores%20I/prova%201)
 	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Redes%20de%20Computadores%20I/prova%202)
+- [Sistema Operacional](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Sistema%20Operacional)
+	- [Prova ??](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Sistema%20Operacional/%20%3F%3F)
 - [Teoria da Computação](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao)
 	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao/Prova%201)
 	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao/Prova%202)
