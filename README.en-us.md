@@ -2,7 +2,7 @@
 A list of tests from the disciplines taught at the Federal University of Maranhão.
 Those tests are inside a folder containg the discipline name. Each discipline folder contains sub directories named as the year that their test was applied.
 
-*Read this in other languages: [Português](README.pt-br.md).*
+*Read this in other languages: [Português](README.md).*
 
 ## List
 - [Linear Algebra](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Algebra%20Linear)
