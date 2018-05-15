@@ -3,6 +3,7 @@
 Uma lista de provas das disciplinas ministradas na Universidade Federal do Maranhão.
 As provas estão dentro de seus diretórios com nomes respectivos as matérias. Cada pasta de disciplina contém subdiretórios nomeados com o ano em que o teste foi aplicado.
 
+-*Leia isto em outras línguas: [English](README.en-us.md).*
 
 ## Lista
 - [Algebra Linear](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Algebra%20Linear)
