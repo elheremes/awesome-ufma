@@ -22,7 +22,7 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Circuitos%20Digitais/prova%202)
 	- [Reposição](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Circuitos%20Digitais/reposicao)
 	- [Prova ??](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Circuitos%20Digitais/prova%20%3F%3F)
-- [Computacao Grafico](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Computacao%20Grafica)
+- [Computacao Grafica](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Computacao%20Grafica)
 	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Computacao%20Grafica/prova%201)
 - [Estrutura de Dados I](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I)
 	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/prova%201)
