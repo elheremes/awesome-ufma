@@ -29,3 +29,6 @@ Materia Nova II
 * Caso haja mais de um prova com o mesmo nome, adicione o numero entre paranteses:
    - 20??_1(1).pdf
    - 20??_1(2).pdf
+* Caso a prova seja pertinente à uma disciplina ministrada em outro curso, adicione o nome do curso seguindo o padrão:
+   - 2018_1_bict.png
+   - 2015_2_bict.pdf
