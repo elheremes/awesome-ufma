@@ -40,6 +40,7 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 - [Linguagens Formais e Autômatos](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos)
 	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos/prova%202)
 - [Matemática Discreta e Lógica](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica)
+	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica/prova%202)
 	- [Prova 3](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica/prova%203)
 	- [Reposição](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica/reposicao)
 - [Pesquisa Operacional](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Pesquisa%20Operacional)
