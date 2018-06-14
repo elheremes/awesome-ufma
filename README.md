@@ -45,6 +45,7 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [Reposição](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Matematica%20Discreta%20e%20Logica/reposicao)
 - [Pesquisa Operacional](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Pesquisa%20Operacional)
 	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Pesquisa%20Operacional/prova%201)
+	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Pesquisa%20Operacional/prova%202)
 - [Redes de Computadores](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Redes%20de%20Computadores%20I)
 	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Redes%20de%20Computadores%20I/prova%201)
 	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Redes%20de%20Computadores%20I/prova%202)
