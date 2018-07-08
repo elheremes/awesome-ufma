@@ -17,6 +17,7 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [Reposição](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/reposicao)	
 - [Cálculo Numérico](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/)
 	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/prova%201)
+	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/prova%202)
 - [Cálculo Vetorial](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial)
 	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial/prova%202)
 - [Circuitos Digitais](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Circuitos%20Digitais)
