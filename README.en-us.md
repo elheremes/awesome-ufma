@@ -7,7 +7,7 @@ Those tests are inside a folder containg the discipline name. Each discipline fo
 ## List
 - [Linear Algebra](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Algebra%20Linear)
 	- [Test 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Algebra%20Linear/prova%201)
-- [Database]](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Banco%20de%20Dados)		
+- [Database](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Banco%20de%20Dados)		
   	- [Test 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Banco%20de%20Dados/prova%201)
 - [Calculus II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/)
 	- [Test 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/prova%202)
@@ -16,6 +16,7 @@ Those tests are inside a folder containg the discipline name. Each discipline fo
 	- [Retake Test](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/reposicao)	
 - [Numerical Calculus](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/)
 	- [Test 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/prova%201)
+	- [Test 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Numerico/prova%202)
 - [Vector Calculus and Analytical Geometry](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial)
 	- [Test 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20Vetorial/prova%202)
 - [Digital Circuits](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Circuitos%20Digitais)
