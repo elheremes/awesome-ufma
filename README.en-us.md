@@ -9,6 +9,7 @@ Those tests are inside a folder containg the discipline name. Each discipline fo
 	- [Test 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Algebra%20Linear/prova%201)
 - [Database](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Banco%20de%20Dados)		
   	- [Test 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Banco%20de%20Dados/prova%201)
+	- [Test 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Banco%20de%20Dados/prova%202)
 - [Calculus II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/)
 	- [Test 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20II/prova%202)
 - [Calculus III](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Calculo%20III/)
