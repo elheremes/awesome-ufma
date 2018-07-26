@@ -50,6 +50,7 @@ Those tests are inside a folder containg the discipline name. Each discipline fo
 	- [Test 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Redes%20de%20Computadores%20I/prova%202)
 - [Operational Systems](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Sistema%20Operacional)
 	- [Test ??](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Sistema%20Operacional/prova%20%3F%3F)
+	- [Retake Test](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Sistema%20Operacional/reposicao)
 - [Theory of Computation](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao)
 	- [Test 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao/Prova%201)
 	- [Test 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao/Prova%202)
