@@ -61,7 +61,7 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Teoria%20da%20Computacao/Prova%202)
 
 ### Como Contribuir?
-* Caso você possua pouca experiência com git e github, envie a prova para o email: mcs1901@outlook.com.
+> Caso você possua pouca experiência com git e github, envie a prova para o email: mcs1901@outlook.com.
 
 Veja o [guia](https://github.com/Marcos-Costa/awesome-ufma/blob/master/CONTRIBUTING.md) de como contribuir com o repósitório, é bem simples, não custa nada e você ganha três coisas com isso:
 * Isso conta como **contribuição em projetos no github**, o que é um diferencial em curriculos de programadores hoje em dia.
