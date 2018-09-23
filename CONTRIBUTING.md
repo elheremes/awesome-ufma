@@ -22,14 +22,14 @@ Materia Nova II
    - 2017_1-2.jpg
 
 * Caso o ano ou o semestre seja desconhecido:
-   - 20??_1.pdf
-   - 2017_?.pdf
-   - 20??_?.pdf
+   - 20XX_1.pdf
+   - 2017_X.pdf
+   - 20XX_X.pdf
 
 * Caso haja mais de um prova com o mesmo nome, adicione o numero entre paranteses:
-   - 20??_1(1).pdf
-   - 20??_1(2).pdf
+   - 20XX_1(1).pdf
+   - 20XX_1(2).pdf
 * Caso a prova seja pertinente à uma disciplina ministrada em outro curso, adicione o nome do curso seguindo o padrão:
    - 2018_1_bict.png
    - 2015_2_EngComp.pdf
-   - 20??_?_mtm.jpeg
+   - 20XX_X_mtm.jpeg
