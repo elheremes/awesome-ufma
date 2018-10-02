@@ -41,6 +41,7 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [Final](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20I/final)
 - [Estrutura de Dados II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II)
 	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/prova%201)
+	- [Prova 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/prova%202)
 	- [Prova 3](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/prova%203)
 - [Física I](https://github.com/Marcos-Costa/awesome-ufma/tree/master/F%C3%ADsica%201)
 	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/F%C3%ADsica%201)
