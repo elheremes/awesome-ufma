@@ -2,7 +2,6 @@
 
 <p float="left">
 	<img src="ufma_brasao.png" width="150">
-	<img src="nca_brasao.jpg" width="150">
 </p>
 
 A list of tests from the disciplines taught at the Federal University of Maranhão.
