@@ -2,7 +2,7 @@
 
 <p float="left">
 	<img src="ufma_brasao.png" width="150">
-	<img src="nca_brasao.png" width="150">
+	<img src="nca_brasao.jpg" width="150">
 </p>
 
 Uma lista de provas das disciplinas ministradas na Universidade Federal do Maranhão.
