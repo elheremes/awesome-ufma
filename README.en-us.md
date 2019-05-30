@@ -36,6 +36,8 @@ Those tests are inside a folder containg the discipline name. Each discipline fo
 	- [Test 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Estrutura%20de%20Dados%20II/prova%201)
 - [Physics I](https://github.com/Marcos-Costa/awesome-ufma/tree/master/F%C3%ADsica%201)
 	- [Test 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/F%C3%ADsica%201/prova%201)
+	- [Test 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/F%C3%ADsica%201/prova%202)
+	- [Test 3](https://github.com/Marcos-Costa/awesome-ufma/tree/master/F%C3%ADsica%201/prova%203)
 - [Programming Language C](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagem%20de%20Programa%C3%A7%C3%A3o)
 	- [Test 2](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagem%20de%20Programa%C3%A7%C3%A3o/prova%202)
 - [Formal Languages and Automata Theory](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Linguagens%20Formais%20e%20Automatos)
