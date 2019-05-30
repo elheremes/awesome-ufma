@@ -1,6 +1,9 @@
 # Awesome UFMA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<img src="ufma_brasao.png" width="150">
+<p float="left">
+	<img src="ufma_brasao.png" width="150">
+	<img src="nca_brasao.png" width="150">
+</p>
 
 A list of tests from the disciplines taught at the Federal University of Maranhão.
 Those tests are inside a folder containg the discipline name. Each discipline folder contains sub directories named as the year that their test was applied.
