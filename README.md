@@ -36,6 +36,8 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Computacao%20Grafica/prova%201)
 - [Compiladores](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Compiladores)
     - [Reposição](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Compiladores/reposicao)
+- [Engenharia de Requisitos](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Engenharia%20de%20Requisitos)
+	- [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Engenharia%20de%20Requisitos/prova%201)
 - [Engenharia de Software](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Engenharia%20de%20Software)
     - [Prova 1](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Engenharia%20de%20Software/prova%201)
 - [Engenharia de Software II](https://github.com/Marcos-Costa/awesome-ufma/tree/master/Engenharia%20de%20Software%20II)
