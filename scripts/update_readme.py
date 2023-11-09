@@ -1,87 +1,137 @@
-from googletrans import Translator
-import os
+import os, re
+from google.cloud import translate_v3beta1
+from google.cloud.translate_v3beta1 import TranslateTextResponse
 
-IGNORE_FOLDERS = ['scripts', '.git']
+files = {}
+languages = {}  # Idiomas disponíveis
+modules = {}  # Módulos disponíveis
 
-def main(lang):
-    file_content = texto_inicial(lang=lang)
-    file_content += criar_lista(lang=lang)
-    file_content += text_final(lang=lang)
-    
-    with open("test_{0}.md".format(lang), "w") as f:
-        f.write(file_content)
+""" Definição do sistema de templates
+    {% nome = var %} = Atribuição de variável
+    {# #} = Comentário
+    {{ }} = Importar módulo
+"""
 
-def texto_inicial(lang='pt'):
+
+def open_template(path: str) -> str:
     try:
-        with open("data/texto_inicial_{0}.txt".format(lang), "r") as f:
-            return f.read()
+        with open(path, "r") as f:
+            arq = f.read()
+            f.close()
+            return arq
     except OSError:
-        raise Exception("Linguagem \"{0}\" não suportada.".format(lang))
+        raise Exception("Failed to read file", path)
 
-def text_final(lang='pt'):
-    try:
-        with open("data/texto_final_{0}.txt".format(lang), "r") as f:
-            return f.read()
-    except OSError:
-        raise Exception("Linguagem \"{0}\" não suportada.".format(lang))
-    
-def capitalizar_primeira_letra(string):
-    l = list(string)
 
-    l[0] = l[0].upper()
+def extractLanguagesAndModules(path: str) -> tuple[dict, dict, dict]:
+    files = os.listdir(path)
+    texts = {}
+    languages = {}
+    modules = {}
 
-    return ''.join(l)
+    for file in files:
+        text = open_template(path + "/" + file)
 
-def criar_lista(lang='pt'):
-    global IGNORE_FOLDERS
-    
-    dirs = [name for name in os.listdir("..") if os.path.isdir("../" + name)]
+        # Get variables and filtered text from file
+        variables, text = getTemplateVariables(text)
 
-    dirs.sort()
-    
-    trslt = Translator()
-    
-    if lang != 'pt':
-        text = '\n## {0}\n'.format(trslt.translate("Lista", src='pt', dest=lang).text)
-    else:
-        text = '\n## Lista\n'
-    
-    for d in dirs:
-        if d in IGNORE_FOLDERS:
-            continue
+        # Prepare for add to dict
+        match variables['type']:
+            case 'language':
+                selected = languages
+            case 'module':
+                selected = modules
+            case _:
+                raise Exception(f"File {file}: Unknown value for type({variables['type']})")
 
-        if lang == 'pt':
-            d_name = d
+        # Adds to selected dict
+        selected[variables['shortname']] = variables
+        texts[variables['shortname']] = text
+
+    return texts, languages, modules
+
+
+def getTemplateVariables(text: str) -> tuple[dict, str]:
+    # Procura por todo caso que se encaixa em {% <nome_var> = <valor_var> %}
+    # Espaços entre os tokens são ignorados
+    variables = dict(re.findall(r'(?<={%) *(.*?) *= *(.*?) *(?=%})', text))
+    # Remove as variáveis do texto Final
+    ret = text[:]
+    ret = re.sub(r'({%)(.*?)(%}\n?)', '', ret)
+    return variables, ret
+
+
+def generateLangList(languageList: dict) -> str:
+    text = []
+    for lang in languageList.values():
+        _ = f"[{lang['name']}](README_{lang['shortname']}.md)"
+        text.append(f"[{lang['name']}](README_{lang['shortname']}.md)")
+    return ','.join(text)
+
+
+def generateDirNames(path: str) -> dict:
+    blacklist = ['venv', 'scripts', '.git', '.idea', '.vscode']
+    availableDir = [name for name in os.listdir(path) if os.path.isdir(path + name) and name not in blacklist]
+    ret = {}
+
+    for directory in availableDir:
+        ret[directory] = [name for name in os.listdir(f"{path}/{directory}") if
+                          os.path.isdir(f"{path}/{directory}/{name}")]
+
+    return ret
+
+
+def concatDirNames(dirTree: dict) -> str:
+    ret = []
+    for folder in dirTree.keys():
+        _ = f"- [{folder}]({folder.replace(' ', '%20')})\n"
+        for subfolder in dirTree[folder]:
+            _ += f"\t- [{subfolder}]({folder.replace(' ', '%20')}/{subfolder.replace(' ', '%20')})\n"
+        ret.append(_)
+    return '\n'.join(ret)
+
+
+def substituteModules(text: str, availableModules: dict, availableFiles: dict, dirTree: dict, language: str) -> str:
+    modules = re.findall('(?<={{) *(.*?) *(?=}})', text)
+    ret = text[:]
+    for module in modules:
+        if module in availableModules.keys():
+            ret = re.sub(f"({{{{) *{module} *(}}}})", availableFiles[module], ret)
+        elif module == 'list':
+            pass  # Implement translation
         else:
-            d_name = trslt.translate(d, src='pt', dest=lang).text
+            raise Exception(f"Module {module} not found")
+    return ret
 
-        d_name = capitalizar_primeira_letra(d_name)
-        
-        folder_link = "https://github.com/Marcos-Costa/awesome-ufma/tree/master/{0}".format(d.replace(' ', '%20'))
-    
-        aux_text = "- [{0}]({1})\n".format(d_name, folder_link)
 
-        f_dirs = [name for name in os.listdir("../" + d) if os.path.isdir("../" + d + "/" + name)]
+def writeFile(text, path):
+    with open(path, 'w') as f:
+        f.write(text)
+        f.close()
 
-        f_dirs.sort()
-        
-        for f_d in f_dirs:
-            if lang == 'pt':
-                f_d_name = f_d
-            else:
-                f_d_name = trslt.translate(f_d, src='pt', dest=lang).text
 
-                if lang == 'en':
-                    f_d_name.replace('Proof', 'Test')
+def remove_comments(text: str):
+    """Remove everything that is between {# #}"""
+    regex = r'([\n]?{#)(.*?)(#}[\n]?)'
+    return re.sub(regex, '', text)
 
-            f_d_name = capitalizar_primeira_letra(f_d_name)
-                
-            aux_text += "    - [{0}]({1}/{2})\n".format(f_d_name, folder_link, f_d.replace(' ', '%20'))
 
-        text += aux_text
+if __name__ == '__main__':
+    # Filters
+    files, languages, modules = extractLanguagesAndModules("./templates")
 
-    return text + '\n'
-    
-if __name__ == '__main__':    
-    main('pt')
-    main('en')
+    # Get list of languages
+    files['otherLanguages'] = generateLangList(languages)
+    modules['otherLanguages'] = {}
+
+    # Get list of directories. This will be translated
+    dirTree = generateDirNames('../')
+
+    # Dummy for no internet mode
+    files['list'] = concatDirNames(dirTree)
+    modules['list'] = {}
+
+    for file in languages.keys():
+        files[file] = remove_comments(files[file])
+        files[file] = substituteModules(files[file], modules, files, dirTree, file)
+        writeFile(files[file], "../README_" + file + ".md")

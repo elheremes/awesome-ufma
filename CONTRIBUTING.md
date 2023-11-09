@@ -4,16 +4,17 @@
 * Verifique se a prova que você deseja submeter já foi enviada previamente.
 * Verifique se já existe uma pasta para a disciplina que irá enviar a prova. Caso contrário, crie uma nova.
 * O nome da pasta deve ser o **Nome da Disciplina** sem acentos, contendo espaços e os números devem ser escritos em algarismos romanos.
+* Remova seu nome da prova antes de enviar
 
 ```
 Materia Nova II
 ```
 
 * Dentro da pastas crie uma pasta com o tipo de prova:
-   - prova 1
-   - prova 2
-   - reposicao
-   - final
+   - Prova 1
+   - Prova 2
+   - Reposicao
+   - Final
 
 * Insira o arquivo dentro da pasta criada seguindo o modelo <nome>_<semestre>.pdf
    - Ex: 2017_1.pdf
