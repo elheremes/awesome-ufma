@@ -77,6 +77,7 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 
 - [Engenharia de Software I](Engenharia%20de%20Software%20I)
 	- [Prova 1](Engenharia%20de%20Software%20I/Prova%201)
+	- [Prova 3](Engenharia%20de%20Software%20I/Prova%203)
 
 - [Banco de Dados I](Banco%20de%20Dados%20I)
 	- [Prova 1](Banco%20de%20Dados%20I/Prova%201)
