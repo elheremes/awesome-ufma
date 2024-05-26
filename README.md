@@ -25,6 +25,12 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [Prova 2](Arquitetura%20de%20Computadores/Prova%202)
 	- [Prova 3](Arquitetura%20de%20Computadores/Prova%203)
 
+- [Arquitetura de Software](Arquitetura%20de%20Software)
+	- [Prova 1](Arquitetura%20de%20Software/Prova%201)
+
+- [Avaliação de Desempenho](Avaliacao%20de%20Desempenho)
+	- [Prova 1](Avaliacao%20de%20Desempenho/Prova%201)
+
 - [Banco de Dados I](Banco%20de%20Dados%20I)
 	- [Final](Banco%20de%20Dados%20I/Final)
 	- [Prova 1](Banco%20de%20Dados%20I/Prova%201)
@@ -151,6 +157,9 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 	- [Prova 2](Matematica%20Discreta%20e%20Logica/Prova%202)
 	- [Prova 3](Matematica%20Discreta%20e%20Logica/Prova%203)
 	- [Reposicao](Matematica%20Discreta%20e%20Logica/Reposicao)
+
+- [Mineração de Dados](Mineração%20de%20Dados)
+	- [Prova 1](Mineração%20de%20Dados/Prova%201)
 
 - [Pesquisa Operacional](Pesquisa%20Operacional)
 	- [Prova 1](Pesquisa%20Operacional/Prova%201)
