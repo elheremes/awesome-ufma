@@ -5,12 +5,12 @@
 	<img src="./ufma_brasao.svg" width="150">
 </p>
 
-A list of tests from the disciplines taught at the Federal University of Maranhão.
-Those tests are inside a folder containing the discipline name. Each discipline folder contains subdirectories named as the year that their test was applied.
+Uma lista de provas das disciplinas ministradas na Universidade Federal do Maranhão.
+As provas estão dentro de seus diretórios com nomes respectivos as matérias. Cada pasta de disciplina contém subdiretórios nomeados com o ano em que o teste foi aplicado.
 
-*Read this in other languages: [Português Brasil](README_ptbr.md),[English](README_en.md)
+*Leia isto em outras línguas: [Português Brasil](README_ptbr.md),[English](README_en.md)
 
-## List
+## Lista
 - [Sistemas Inteligentes](Sistemas%20Inteligentes)
 	- [prova 1](Sistemas%20Inteligentes/prova%201)
 
@@ -207,11 +207,11 @@ Those tests are inside a folder containing the discipline name. Each discipline 
 	- [Prova 1](Engenharia%20de%20Requisitos/Prova%201)
 
 
-### How to contribute?
-Read the [guide](CONTRIBUTING.md) about how to contribute at this repository, it's pretty simple and you can achieve some benefits, like:
-* It can count as **project contribution on github**, a differential in the curriculum of programmers nowadays.
-* You'll help **all students of our course to graduate faster**.
-* You'll help to end one of the greatests issues of our lovely university, the feared and expensive **students retention**.
+### Como Contribuir?
+Veja o [guia](CONTRIBUTING.md) de como contribuir com o repósitório, é bem simples, não custa nada e você ganha três coisas com isso:
+* Isso conta como **contribuição em projetos no github**, o que é um diferencial em curriculos de programadores hoje em dia.
+* Você ajuda **todos alunos do curso a se formarem mais rápido**.
+* Ajuda a acabar com um dos maiores problemas de nossa querida universidade, a temida e dispendiosa  **retenção de alunos**.
 
-### Note for professors
-If you are a professor worried about students being prepared for your tests as they should be, feel free to report an issue asking for a removal of your tests from this repository. Your discipline folder will be deleted as fast as possible.
+#### Nota aos professores
+Se você é um professor preocupado com estudantes se preparando para sua prova, como eles deveriam estar, sinta-se livre para enviar um issue pedindo a remoção das suas provas deste repositório. A pasta contendo sua disciplina será removida o mais rápido possível.

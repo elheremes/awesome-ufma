@@ -1,5 +1,5 @@
 # Como Contribuir 
-* Caso você possua experiência 0 com git e github, envie a prova para o email: mcs1901@outlook.com.
+* Caso você possua experiência 0 com git e github, envie a prova para o formulario: https://forms.gle/jYtJhrifcJ1YSBB1A ou para o email: dacomp@ufma.br.
 * O arquivo deve seguir ser nomeado como explicado abaixo.
 * Verifique se a prova que você deseja submeter já foi enviada previamente.
 * Verifique se já existe uma pasta para a disciplina que irá enviar a prova. Caso contrário, crie uma nova.
