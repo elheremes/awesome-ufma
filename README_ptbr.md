@@ -5,7 +5,10 @@
 	<img src="./ufma_brasao.svg" width="150">
 </p>
 
-Uma lista de provas das disciplinas ministradas na Universidade Federal do Maranhão.
+Uma lista de materiais para ajudar na sua jornada como aluno na UFMA.
+
+## Provas
+Lista de provas das disciplinas ministradas na Universidade Federal do Maranhão.
 As provas estão dentro de seus diretórios com nomes respectivos as matérias. Cada pasta de disciplina contém subdiretórios nomeados com o ano em que o teste foi aplicado.
 
 *Leia isto em outras línguas: [Português Brasil](README_ptbr.md),[English](README_en.md)
@@ -215,3 +218,10 @@ Veja o [guia](CONTRIBUTING.md) de como contribuir com o repósitório, é bem si
 
 #### Nota aos professores
 Se você é um professor preocupado com estudantes se preparando para sua prova, como eles deveriam estar, sinta-se livre para enviar um issue pedindo a remoção das suas provas deste repositório. A pasta contendo sua disciplina será removida o mais rápido possível.
+
+## Templates
+
+### Monografia
+
+* [LaTeX](https://github.com/alyssoncs/ufma-tcc-template)
+
