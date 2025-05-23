@@ -5,6 +5,9 @@
 	<img src="./ufma_brasao.svg" width="150">
 </p>
 
+A list of resources to guide you in your journey as a student at UFMA.
+
+## Tests
 A list of tests from the disciplines taught at the Federal University of Maranhão.
 Those tests are inside a folder containing the discipline name. Each discipline folder contains subdirectories named as the year that their test was applied.
 
@@ -215,3 +218,9 @@ Read the [guide](CONTRIBUTING.md) about how to contribute at this repository, it
 
 ### Note for professors
 If you are a professor worried about students being prepared for your tests as they should be, feel free to report an issue asking for a removal of your tests from this repository. Your discipline folder will be deleted as fast as possible.
+
+## Templates
+
+### Monograph
+
+* [LaTeX](https://github.com/alyssoncs/ufma-tcc-template)
