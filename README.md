@@ -13,9 +13,10 @@ As provas estão dentro de seus diretórios com nomes respectivos as matérias. 
 
 ## Glossário
 Algumas provas são acompanhadas de marcadores diferentes junto ao seu ano (ex: 2026_1 (1)), esses marcadores podem indicar:
-1. Curso de origem: a fim de aumentar a amostragem de provas de determinadas disciplinas ou professores, optamos por incluir provas da disciplina ministradas em outros cursos. EX: EQ - Engenharia Quimica, BICT - Bacharelado Interdisciplinar em Ciência e Técnologia / Engenharia da Computação, EE - Engenharia Elétrica, CC - Ciência da computação / Inteligência Artificial (Nosso curso), QI - Quimica, FI - Fisica
+1. Curso de origem: a fim de aumentar a amostragem de provas de determinadas disciplinas ou professores, optamos por incluir provas da disciplina ministradas em outros cursos. EX: EQ - Engenharia Quimica, BICT - Bacharelado Interdisciplinar em Ciência e Técnologia / Engenharia da Computação, EE - Engenharia Elétrica, CCIA - Ciência da computação / Inteligência Artificial (Nosso curso), QI - Quimica, FI - Fisica
 2. Modelo da prova: Por vezes, os professores aplicam uma mesma prova com variações, ora denotadas por números, ora por letras. EX: 2025_1(A) / 2025_1(B) / 2025_1(C), 2024_1(1) / 2024_1(2) / 2024_1(3)
 3. Modalidade de origem: Existem provas de Mestrado no repositório, isso ocorre quando o mesmo professor aplica a mesma disciplina tanto na graduação quanto no mestrado, tornando a prova de mestrado válida para nosso repositório. EX: 2026_1 (M) / 2026_1 (G)
+4. Turma: Quando uma mesma disciplina possui oferta de mais de uma turma com diferentes professores no mesmo semestre. EX: 2026_1 (T3)
 
 *Leia isto em outras línguas: [English](README_en.md)
 
