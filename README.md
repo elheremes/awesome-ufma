@@ -17,6 +17,7 @@ Algumas provas são acompanhadas de marcadores diferentes junto ao seu ano (ex: 
 2. Modelo da prova: Por vezes, os professores aplicam uma mesma prova com variações, ora denotadas por números, ora por letras. EX: 2025_1(A) / 2025_1(B) / 2025_1(C), 2024_1(1) / 2024_1(2) / 2024_1(3)
 3. Modalidade de origem: Existem provas de Mestrado no repositório, isso ocorre quando o mesmo professor aplica a mesma disciplina tanto na graduação quanto no mestrado, tornando a prova de mestrado válida para nosso repositório. EX: 2026_1 (M) / 2026_1 (G)
 4. Turma: Quando uma mesma disciplina possui oferta de mais de uma turma com diferentes professores no mesmo semestre. EX: 2026_1 (T3)
+5. Período: Além dos períodos regulares (1 e 2), existem os períodos especiais que ocorrem durante as férias, nas férias do primeiro semestre é o .3, e nas férias do segundo, o .4
 
 *Leia isto em outras línguas: [English](README_en.md)
 
