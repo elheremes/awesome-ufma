@@ -11,6 +11,9 @@ Uma lista de materiais para ajudar na sua jornada como aluno na UFMA.
 Lista de provas das disciplinas ministradas na Universidade Federal do Maranhão.
 As provas estão dentro de seus diretórios com nomes respectivos as matérias. Cada pasta de disciplina contém subdiretórios nomeados com o ano em que o teste foi aplicado.
 
+## Poscomp e ENADE
+O repositório fornece as provas passadas do poscomp (Exame Nacional para Ingresso na Pós-Graduação em Computação) e do ENADE (Exame Nacional de Desempenho de Estudantes), o primeiro tem por fim integrar o processo seletivo para programas de pós-graduação na área da computação, o segundo avalia diretamente o curso (Ciência da computação, Inteligência artificial, etc), cada prova conta com o gabarito ao final.
+
 ## Glossário
 Algumas provas são acompanhadas de marcadores diferentes junto ao seu ano (ex: 2026_1 (1)), esses marcadores podem indicar:
 1. Curso de origem: a fim de aumentar a amostragem de provas de determinadas disciplinas ou professores, optamos por incluir provas da disciplina ministradas em outros cursos. EX: EQ - Engenharia Quimica, BICT - Bacharelado Interdisciplinar em Ciência e Técnologia / Engenharia da Computação, EE - Engenharia Elétrica, CCIA - Ciência da computação / Inteligência Artificial (Nosso curso), QI - Quimica, FI - Fisica
